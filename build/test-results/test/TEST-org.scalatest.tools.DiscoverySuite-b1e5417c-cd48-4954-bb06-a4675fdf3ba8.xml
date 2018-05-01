@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuite 
-errors="0" failures="0" hostname="mwolters-rmbp15.local" name="sims.OrdersSimulationsSpec" tests="3" time="0.033" timestamp="2018-05-01T18:50:56">
+errors="0" failures="0" hostname="mwolters-rmbp15.local" name="org.scalatest.tools.DiscoverySuite" tests="0" time="0.039" timestamp="2018-05-01T18:50:56">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment">
     </property>
@@ -92,18 +92,6 @@ errors="0" failures="0" hostname="mwolters-rmbp15.local" name="sims.OrdersSimula
     <property name="sun.io.unicode.encoding" value="UnicodeBig"> </property>
     <property name="sun.cpu.isalist" value=""> </property>
   </properties>
-  <testcase 
-  name="WriteOrderSimulation should succeed with 0 failures" classname="sims.OrdersSimulationsSpec" time="0.0">
-    <skipped/>
-</testcase>
-  <testcase 
-  name="ReadOrderSimulation should succeed with 0 failures" classname="sims.OrdersSimulationsSpec" time="0.0">
-    <skipped/>
-</testcase>
-  <testcase 
-  name="ReadWriteOrderPercentSimulation should succeed with 0 failures" classname="sims.OrdersSimulationsSpec" time="0.0">
-    <skipped/>
-</testcase>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
