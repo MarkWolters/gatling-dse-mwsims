@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="gatling-dse-sims:main" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="com.datastax.gatling.sims" external.system.module.type="sourceSet" external.system.module.version="1.0" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../lib/gatling-dse-stress-1.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.gatling.highcharts:gatling-charts-highcharts:2.3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.gatling:gatling-app:2.3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.gatling:gatling-charts:2.3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.gatling:gatling-http:2.3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.gatling:gatling-metrics:2.3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.gatling:gatling-core:2.3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.gatling:gatling-commons:2.3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.typesafe.akka:akka-slf4j_2.12:2.5.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.typesafe.akka:akka-actor_2.12:2.5.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.suzaku:boopickle_2.12:1.2.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.scala-lang.modules:scala-java8-compat_2.12:0.8.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.github.scopt:scopt_2.12:3.7.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.gatling:jsonpath_2.12:0.6.9" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.scala-lang.modules:scala-xml_2.12:1.0.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.dongxiguo:fastring_2.12:0.3.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.softwaremill.quicklens:quicklens_2.12:1.4.8" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.typesafe.scala-logging:scala-logging_2.12:3.7.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.scala-lang.modules:scala-parser-combinators_2.12:1.0.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.scala-lang:scala-reflect:2.12.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.scala-lang:scala-library:2.12.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.mashape.unirest:unirest-java:1.4.9" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.httpcomponents:httpasyncclient:4.1.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.httpcomponents:httpmime:4.5.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.httpcomponents:httpclient:4.5.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.json:json:20160212" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.httpcomponents:httpcore-nio:4.4.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.httpcomponents:httpcore:4.4.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-codec:commons-codec:1.9" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.tdunning:t-digest:3.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.9.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.github.ben-manes.caffeine:caffeine:2.5.5" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.advantageous.boon:boon-json:0.6.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: net.sf.saxon:Saxon-HE:9.8.0-4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jodd:jodd-lagarto:3.8.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.asynchttpclient:async-http-client:2.0.35" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-transport-native-epoll:linux-x86_64:4.0.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.hdrhistogram:HdrHistogram:2.1.9" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.typesafe:config:1.3.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.asynchttpclient:async-http-client-netty-utils:2.0.35" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: ch.qos.logback:logback-classic:1.2.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.asynchttpclient:netty-resolver-dns:2.0.35" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.asynchttpclient:netty-resolver:2.0.35" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.asynchttpclient:netty-codec-dns:2.0.35" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.advantageous.boon:boon-reflekt:0.6.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jodd:jodd-core:3.8.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jodd:jodd-log:3.8.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-codec-http:4.0.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.typesafe.netty:netty-reactive-streams:1.0.8" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-handler:4.0.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.reactivestreams:reactive-streams:1.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-codec:4.0.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-transport:4.0.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-buffer:4.0.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-common:4.0.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: ch.qos.logback:logback-core:1.2.3" level="project" />
+  </component>
+</module>

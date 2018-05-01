@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jodd:jodd-lagarto:3.8.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-lagarto/3.8.6/997cd23a7c05cc9c9a55474ba45a0a8078a5d652/jodd-lagarto-3.8.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-lagarto/3.8.6/9247370b6383ac31b6a29be449455addf431cda0/jodd-lagarto-3.8.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

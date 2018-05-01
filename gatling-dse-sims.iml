@@ -1,0 +1,2156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output/>
+    <orderEntry type="inheritedJdk"/>
+    <content url="file://$MODULE_DIR$/">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="false"/>
+      <sourceFolder url="file://$MODULE_DIR$/src/main/scala" isTestSource="false"/>
+      <sourceFolder url="file://$MODULE_DIR$/src/test/scala" isTestSource="true"/>
+      <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
+      <excludeFolder url="file://$MODULE_DIR$/build"/>
+    </content>
+    <orderEntry type="sourceFolder" forTests="false"/>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.4/7663f74ef944453c86cc7e6597ed33e9281f6412/scala-library-2.12.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.4/cf0a248c2c35f44dd24a44f50056606450980f33/scala-library-2.12.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.mashape.unirest/unirest-java/1.4.9/778cffcba803dc7d43932266aef4c91f5b6b4dd0/unirest-java-1.4.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.mashape.unirest/unirest-java/1.4.9/fc3504b646ef187849da8caa2e4e9c1b962b5caf/unirest-java-1.4.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling.highcharts/gatling-charts-highcharts/2.3.0/5fa92e718c2473207aa93903df0b4a03ef7bf9c6/gatling-charts-highcharts-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling.highcharts/gatling-charts-highcharts/2.3.0/7d8a50d609a0f2b623ef0674d6e68323d7ddda3a/gatling-charts-highcharts-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/733db77aa8d9b2d68015189df76ab06304406e50/httpclient-4.5.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpasyncclient/4.1.1/dd624f5a0ff43eb5cdf828d9739d3177ee00a5a9/httpasyncclient-4.1.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpasyncclient/4.1.1/548f9cae59a0d01571ac39f714f19682cb68c481/httpasyncclient-4.1.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.2/22b4c53dd9b6761024258de8f9240c3dce6ea368/httpmime-4.5.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.2/ca23fd61a082eab682fc0ffd29e37d09eab07180/httpmime-4.5.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.json/json/20160212/a742e3f85161835b95877478c5dd5b405cefaab9/json-20160212.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.json/json/20160212/6b4ee9a02a4ed9eb92efe6104c424f70c822c8c8/json-20160212-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-charts/2.3.0/162f4696d1a57c9eeb466a867c72d19d873a693e/gatling-charts-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-charts/2.3.0/8aebbc210e8a8fb58d218781e2402af61493e1f0/gatling-charts-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-app/2.3.0/41e96ca0911d7272ffcceaad133cb1e2918683bc/gatling-app-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-app/2.3.0/4b6d289e12471ef16a52205b6b699fed6ddbbbee/gatling-app-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.4/b31526a230871fbe285fbcbe2813f9c0839ae9b0/httpcore-4.4.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.4/c5c19e3e6af6b452def290cde12a3ee4c35c893c/httpcore-4.4.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.9/9ce04e34240f674bc72680f8b843b1457383161a/commons-codec-1.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.9/3f15fff45d57656685abfee9e8302bf14580044c/commons-codec-1.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore-nio/4.4.4/16badfc2d99db264c486ba8c57ae577301a58bd9/httpcore-nio-4.4.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore-nio/4.4.4/816d16779b3058b1454908757fbc9ec8d233d7ba/httpcore-nio-4.4.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-core/2.3.0/dd80c883fc7c4f4e6d961ac0eb3668ce045d06ef/gatling-core-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-core/2.3.0/649c2217f74e778e244ed9f2cfcca0a639efa248/gatling-core-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.tdunning/t-digest/3.1/451ed219688aed5821a789428fd5e10426d11312/t-digest-3.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.tdunning/t-digest/3.1/bd80162d96b5ee17fb2f88fab8ce496e1214b6d3/t-digest-3.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-http/2.3.0/8b7bd3cc1928b8076e65d077e24d634eebde2c75/gatling-http-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-http/2.3.0/8cb46ba9b43e8c89c00b26f293e65813de07277/gatling-http-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-metrics/2.3.0/54bd3e70e3d4316b76390ad73f8dc4e228894498/gatling-metrics-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-metrics/2.3.0/c548254f8a07916b9309dadd16124998dbe07b2d/gatling-metrics-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-commons/2.3.0/fc017fa7bba948954a25219cdd1262b166a6e921/gatling-commons-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-commons/2.3.0/3d13593363f2cee4cd27c6150dd3e9cb38a42c7c/gatling-commons-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.12/2.5.4/437cfe40519a36b8c4890cb6b2ef3800d0549812/akka-actor_2.12-2.5.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.12/2.5.4/ca5b1d1069f76b781443161db3f6a9fdcc56e8b6/akka-actor_2.12-2.5.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-slf4j_2.12/2.5.4/b5d88662d8e71aa0a8978c5f68533495c2c96296/akka-slf4j_2.12-2.5.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-slf4j_2.12/2.5.4/b9ed67813392cef65032e50e99ea6b708b577e6e/akka-slf4j_2.12-2.5.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-csv/2.9.0/1bed4e5c47bb6d2c8ccde5ccc146d55ff43bc3/jackson-dataformat-csv-2.9.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-csv/2.9.0/60aa92552a377acf6b8b12e561ca3a87d2764ef3/jackson-dataformat-csv-2.9.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.suzaku/boopickle_2.12/1.2.6/85281da7833655a0fb7c91274c7a97cbe61b990c/boopickle_2.12-1.2.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.suzaku/boopickle_2.12/1.2.6/17dbfb08b534f2126a0bdcf1ab7066c413e14043/boopickle_2.12-1.2.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-java8-compat_2.12/0.8.0/1e6f1e745bf6d3c34d1e2ab150653306069aaf34/scala-java8-compat_2.12-0.8.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-java8-compat_2.12/0.8.0/a33ce48278b9e3bbea8aed726e3c0abad3afadd/scala-java8-compat_2.12-0.8.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.github.ben-manes.caffeine/caffeine/2.5.5/3b7a61b4dd2a3b4e0aa5b500aaefaa5cd4beb76f/caffeine-2.5.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.github.ben-manes.caffeine/caffeine/2.5.5/20a43e057ee0de930f18cbd98250c680c132f8c4/caffeine-2.5.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.12/1.0.6/2785fb31169d9a89298eb05f748d90205bc2592e/scala-parser-combinators_2.12-1.0.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.12/1.0.6/b67822f6858f8cead9a87b43dead5c754bdc0167/scala-parser-combinators_2.12-1.0.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.github.scopt/scopt_2.12/3.7.0/e078455e1a65597146f8608dab3247bf1eb92e6e/scopt_2.12-3.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.github.scopt/scopt_2.12/3.7.0/c560830a3061abd37463de2ac0560a4825ace566/scopt_2.12-3.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/b19b5927c2c25b6c70f093767041e641ae0b1b35/jsr305-3.0.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/jsonpath_2.12/0.6.9/a95b4587535e269fc5c95dea247c33e4c803d152/jsonpath_2.12-0.6.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/jsonpath_2.12/0.6.9/36eb0795239f3a63810c62a70ca5b68f2aa3b2c2/jsonpath_2.12-0.6.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.0/14fb5f088cc0b0dc90a73ba745bcade4961a3ee3/jackson-databind-2.9.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.0/dd1de78aa439a5bdee53236bf3012cf70f62234f/jackson-databind-2.9.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-json/0.6.6/d82b71ff8fa91831dbfdf46457c84fd139ec7777/boon-json-0.6.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-json/0.6.6/221b349dd309fc333bff656d9d744fe8524d3253/boon-json-0.6.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/net.sf.saxon/Saxon-HE/9.8.0-4/ffa5fd5228d56b6da4fb1a0cf943ec537d589379/Saxon-HE-9.8.0-4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/net.sf.saxon/Saxon-HE/9.8.0-4/8d13f1117abb38d1d8f2833b251384f61066f48b/Saxon-HE-9.8.0-4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-lagarto/3.8.6/997cd23a7c05cc9c9a55474ba45a0a8078a5d652/jodd-lagarto-3.8.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-lagarto/3.8.6/9247370b6383ac31b6a29be449455addf431cda0/jodd-lagarto-3.8.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.0.35/c3cc60e3c58259c7b2cde0d0f4df4d07473879dc/async-http-client-2.0.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.0.35/e4035ea7fcfe42bf79a829400584a416dc194ec8/async-http-client-2.0.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.0.51.Final/31e01b634255d265f0a9282bdc96dfd6d1f6b78f/netty-transport-native-epoll-4.0.51.Final-linux-x86_64.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.0.51.Final/f52f2da4c8ccb0a9fc2d953649bbac38cdf92c91/netty-transport-native-epoll-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.12/1.0.6/e22de3366a698a9f744106fb6dda4335838cf6a7/scala-xml_2.12-1.0.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.12/1.0.6/429925530fb0f9a6fb26e5160532b7b3426557c0/scala-xml_2.12-1.0.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.hdrhistogram/HdrHistogram/2.1.9/e4631ce165eb400edecfa32e03d3f1be53dee754/HdrHistogram-2.1.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.hdrhistogram/HdrHistogram/2.1.9/966a6429061192e62cc346462587253a726db6b7/HdrHistogram-2.1.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.12.3/a017f8f606e5f433df4f8d5efc20ce39c2fe8330/scala-reflect-2.12.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.12.3/6e22c188d641f120fbf0e53a35b285d7e73873d/scala-reflect-2.12.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.3.1/2cf7a6cc79732e3bdf1647d7404279900ca63eb0/config-1.3.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.3.1/a27878630ff503b63ed25ff2a25fa8ef888740b3/config-1.3.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.dongxiguo/fastring_2.12/0.3.1/17f2d89723f1be0adec828aac747e4f4645499c7/fastring_2.12-0.3.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.dongxiguo/fastring_2.12/0.3.1/e18b0cb68316db1998a72c47d58a8d05a1869a1c/fastring_2.12-0.3.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.softwaremill.quicklens/quicklens_2.12/1.4.8/68e8e450ed5ba00f8997b70f63cb80c767747302/quicklens_2.12-1.4.8.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.softwaremill.quicklens/quicklens_2.12/1.4.8/de43618575a3c01203254c77e3f46f99dcef5542/quicklens_2.12-1.4.8-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client-netty-utils/2.0.35/5e508dbcd0d7cdc1ab37be965574522b55a26f3c/async-http-client-netty-utils-2.0.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client-netty-utils/2.0.35/4343e2a8da040e489e45f07f6fc905df46693ba6/async-http-client-netty-utils-2.0.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.scala-logging/scala-logging_2.12/3.7.2/a1dc97509765287faa4747f7cb411f0b85dc9a34/scala-logging_2.12-3.7.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.scala-logging/scala-logging_2.12/3.7.2/a5f760917b60283e37c84bf3db2aeaf976980ad3/scala-logging_2.12-3.7.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.3/7c4f3c474fb2c041d8028740440937705ebb473a/logback-classic-1.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.3/cfd5385e0c5ed1c8a5dce57d86e79cf357153a64/logback-classic-1.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/7c10d545325e3a6e72e06381afe469fd40eb701/jackson-annotations-2.9.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/a0ad4e203304ccab7e01266fa814115850edb8a9/jackson-annotations-2.9.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.0/88e7c6220be3b3497b3074d3fc7754213289b987/jackson-core-2.9.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.0/60c3905e59f09cace421e18ad865bf71d8a79c29/jackson-core-2.9.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-reflekt/0.6.6/2a1853eebbdae4ce74469254bb98f576636896d0/boon-reflekt-0.6.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-reflekt/0.6.6/c61679ab4bcea119456ba631ddab7557916b464a/boon-reflekt-0.6.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-core/3.8.6/b098f1eeb2bf7860c1d76e3c2b82c93c8b7c36ee/jodd-core-3.8.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-core/3.8.6/9629008169416bd9f2e162fc8f54be5ce090e13f/jodd-core-3.8.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-log/3.8.6/a0135c64288a08c0d8574fed396086485e0122cb/jodd-log-3.8.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-log/3.8.6/adccc5ad332ea50055e828bae4bc5db31c3761de/jodd-log-3.8.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.0.51.Final/1c8074c311dd2f1273c722477b232cdb74dcd844/netty-codec-http-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.0.51.Final/505f23238cfaee039dcbd45702b513bcb37b25f5/netty-codec-http-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.0.51.Final/d1bb19203fef0a78babdbd0eb511add11d806df8/netty-handler-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.0.51.Final/1d6065aa3f347a06ebb98b9e209a122a59405c4c/netty-handler-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver-dns/2.0.35/76bc0397d33b7f83b38ac206a3a3cbe2acfa06d4/netty-resolver-dns-2.0.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver-dns/2.0.35/19f95a511678ee4d66283e858c31a3eeb9ec1ca3/netty-resolver-dns-2.0.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/5be7bd3f38e43c8fc83699bbb5328c62adb95bbf/reactive-streams-1.0.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams/1.0.8/afe9907657050156b4b204abdcbb16d15c98ad41/netty-reactive-streams-1.0.8.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams/1.0.8/526f0714d9e50ee3115e8e43fddf3cb6dae11c10/netty-reactive-streams-1.0.8-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.0.51.Final/2497dfa8a979b922503cf2587a8368f73aa3b1cc/netty-common-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.0.51.Final/449e3ad0e8a507ea5106065d9c1e07f91d45eedf/netty-common-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.0.51.Final/902a6036401f3a659967097fcad6b267bd3163d2/netty-buffer-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.0.51.Final/3d67eabb33c16b7d96e6f06e35acbc33f07e499d/netty-buffer-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.0.51.Final/12d1c748d7751e2c8789f9fe424194e7de1aeb49/netty-transport-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.0.51.Final/246fed700ef2171275359cae206cc5ee9f48b424/netty-transport-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.2.3/864344400c3d4d92dfeb0a305dc87d953677c03c/logback-core-1.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.2.3/3ebabe69eba0196af9ad3a814f723fb720b9101e/logback-core-1.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.0.51.Final/d23fcf04e4e515df86801fb9cbc281c9b4810310/netty-codec-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.0.51.Final/9c2aa963438d700cdca62e8458d9945383637dd5/netty-codec-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver/2.0.35/a98648d3bcd8278e75fbba3bd7b319757a2f7570/netty-resolver-2.0.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver/2.0.35/5dd721ed836dd058ff984b36ccf78acac3aeac13/netty-resolver-2.0.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-codec-dns/2.0.35/f02494146cdc7a6f0924afd983fa7def602a82d4/netty-codec-dns-2.0.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-codec-dns/2.0.35/7305fb5341279812bf1fd91b24226fceee5bf026/netty-codec-dns-2.0.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/gatling-dse-stress-1.2.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.4/7663f74ef944453c86cc7e6597ed33e9281f6412/scala-library-2.12.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.4/cf0a248c2c35f44dd24a44f50056606450980f33/scala-library-2.12.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.mashape.unirest/unirest-java/1.4.9/778cffcba803dc7d43932266aef4c91f5b6b4dd0/unirest-java-1.4.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.mashape.unirest/unirest-java/1.4.9/fc3504b646ef187849da8caa2e4e9c1b962b5caf/unirest-java-1.4.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling.highcharts/gatling-charts-highcharts/2.3.0/5fa92e718c2473207aa93903df0b4a03ef7bf9c6/gatling-charts-highcharts-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling.highcharts/gatling-charts-highcharts/2.3.0/7d8a50d609a0f2b623ef0674d6e68323d7ddda3a/gatling-charts-highcharts-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/733db77aa8d9b2d68015189df76ab06304406e50/httpclient-4.5.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpasyncclient/4.1.1/dd624f5a0ff43eb5cdf828d9739d3177ee00a5a9/httpasyncclient-4.1.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpasyncclient/4.1.1/548f9cae59a0d01571ac39f714f19682cb68c481/httpasyncclient-4.1.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.2/22b4c53dd9b6761024258de8f9240c3dce6ea368/httpmime-4.5.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.2/ca23fd61a082eab682fc0ffd29e37d09eab07180/httpmime-4.5.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.json/json/20160212/a742e3f85161835b95877478c5dd5b405cefaab9/json-20160212.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.json/json/20160212/6b4ee9a02a4ed9eb92efe6104c424f70c822c8c8/json-20160212-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-charts/2.3.0/162f4696d1a57c9eeb466a867c72d19d873a693e/gatling-charts-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-charts/2.3.0/8aebbc210e8a8fb58d218781e2402af61493e1f0/gatling-charts-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-app/2.3.0/41e96ca0911d7272ffcceaad133cb1e2918683bc/gatling-app-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-app/2.3.0/4b6d289e12471ef16a52205b6b699fed6ddbbbee/gatling-app-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.4/b31526a230871fbe285fbcbe2813f9c0839ae9b0/httpcore-4.4.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.4/c5c19e3e6af6b452def290cde12a3ee4c35c893c/httpcore-4.4.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.9/9ce04e34240f674bc72680f8b843b1457383161a/commons-codec-1.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.9/3f15fff45d57656685abfee9e8302bf14580044c/commons-codec-1.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore-nio/4.4.4/16badfc2d99db264c486ba8c57ae577301a58bd9/httpcore-nio-4.4.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore-nio/4.4.4/816d16779b3058b1454908757fbc9ec8d233d7ba/httpcore-nio-4.4.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-core/2.3.0/dd80c883fc7c4f4e6d961ac0eb3668ce045d06ef/gatling-core-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-core/2.3.0/649c2217f74e778e244ed9f2cfcca0a639efa248/gatling-core-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.tdunning/t-digest/3.1/451ed219688aed5821a789428fd5e10426d11312/t-digest-3.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.tdunning/t-digest/3.1/bd80162d96b5ee17fb2f88fab8ce496e1214b6d3/t-digest-3.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-http/2.3.0/8b7bd3cc1928b8076e65d077e24d634eebde2c75/gatling-http-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-http/2.3.0/8cb46ba9b43e8c89c00b26f293e65813de07277/gatling-http-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-metrics/2.3.0/54bd3e70e3d4316b76390ad73f8dc4e228894498/gatling-metrics-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-metrics/2.3.0/c548254f8a07916b9309dadd16124998dbe07b2d/gatling-metrics-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-commons/2.3.0/fc017fa7bba948954a25219cdd1262b166a6e921/gatling-commons-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-commons/2.3.0/3d13593363f2cee4cd27c6150dd3e9cb38a42c7c/gatling-commons-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.12/2.5.4/437cfe40519a36b8c4890cb6b2ef3800d0549812/akka-actor_2.12-2.5.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.12/2.5.4/ca5b1d1069f76b781443161db3f6a9fdcc56e8b6/akka-actor_2.12-2.5.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-slf4j_2.12/2.5.4/b5d88662d8e71aa0a8978c5f68533495c2c96296/akka-slf4j_2.12-2.5.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-slf4j_2.12/2.5.4/b9ed67813392cef65032e50e99ea6b708b577e6e/akka-slf4j_2.12-2.5.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-csv/2.9.0/1bed4e5c47bb6d2c8ccde5ccc146d55ff43bc3/jackson-dataformat-csv-2.9.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-csv/2.9.0/60aa92552a377acf6b8b12e561ca3a87d2764ef3/jackson-dataformat-csv-2.9.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.suzaku/boopickle_2.12/1.2.6/85281da7833655a0fb7c91274c7a97cbe61b990c/boopickle_2.12-1.2.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.suzaku/boopickle_2.12/1.2.6/17dbfb08b534f2126a0bdcf1ab7066c413e14043/boopickle_2.12-1.2.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-java8-compat_2.12/0.8.0/1e6f1e745bf6d3c34d1e2ab150653306069aaf34/scala-java8-compat_2.12-0.8.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-java8-compat_2.12/0.8.0/a33ce48278b9e3bbea8aed726e3c0abad3afadd/scala-java8-compat_2.12-0.8.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.github.ben-manes.caffeine/caffeine/2.5.5/3b7a61b4dd2a3b4e0aa5b500aaefaa5cd4beb76f/caffeine-2.5.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.github.ben-manes.caffeine/caffeine/2.5.5/20a43e057ee0de930f18cbd98250c680c132f8c4/caffeine-2.5.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.12/1.0.6/2785fb31169d9a89298eb05f748d90205bc2592e/scala-parser-combinators_2.12-1.0.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.12/1.0.6/b67822f6858f8cead9a87b43dead5c754bdc0167/scala-parser-combinators_2.12-1.0.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.github.scopt/scopt_2.12/3.7.0/e078455e1a65597146f8608dab3247bf1eb92e6e/scopt_2.12-3.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.github.scopt/scopt_2.12/3.7.0/c560830a3061abd37463de2ac0560a4825ace566/scopt_2.12-3.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/b19b5927c2c25b6c70f093767041e641ae0b1b35/jsr305-3.0.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/jsonpath_2.12/0.6.9/a95b4587535e269fc5c95dea247c33e4c803d152/jsonpath_2.12-0.6.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/jsonpath_2.12/0.6.9/36eb0795239f3a63810c62a70ca5b68f2aa3b2c2/jsonpath_2.12-0.6.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.0/14fb5f088cc0b0dc90a73ba745bcade4961a3ee3/jackson-databind-2.9.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.0/dd1de78aa439a5bdee53236bf3012cf70f62234f/jackson-databind-2.9.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-json/0.6.6/d82b71ff8fa91831dbfdf46457c84fd139ec7777/boon-json-0.6.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-json/0.6.6/221b349dd309fc333bff656d9d744fe8524d3253/boon-json-0.6.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/net.sf.saxon/Saxon-HE/9.8.0-4/ffa5fd5228d56b6da4fb1a0cf943ec537d589379/Saxon-HE-9.8.0-4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/net.sf.saxon/Saxon-HE/9.8.0-4/8d13f1117abb38d1d8f2833b251384f61066f48b/Saxon-HE-9.8.0-4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-lagarto/3.8.6/997cd23a7c05cc9c9a55474ba45a0a8078a5d652/jodd-lagarto-3.8.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-lagarto/3.8.6/9247370b6383ac31b6a29be449455addf431cda0/jodd-lagarto-3.8.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.0.35/c3cc60e3c58259c7b2cde0d0f4df4d07473879dc/async-http-client-2.0.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.0.35/e4035ea7fcfe42bf79a829400584a416dc194ec8/async-http-client-2.0.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.0.51.Final/31e01b634255d265f0a9282bdc96dfd6d1f6b78f/netty-transport-native-epoll-4.0.51.Final-linux-x86_64.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.0.51.Final/f52f2da4c8ccb0a9fc2d953649bbac38cdf92c91/netty-transport-native-epoll-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.12/1.0.6/e22de3366a698a9f744106fb6dda4335838cf6a7/scala-xml_2.12-1.0.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.12/1.0.6/429925530fb0f9a6fb26e5160532b7b3426557c0/scala-xml_2.12-1.0.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.hdrhistogram/HdrHistogram/2.1.9/e4631ce165eb400edecfa32e03d3f1be53dee754/HdrHistogram-2.1.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.hdrhistogram/HdrHistogram/2.1.9/966a6429061192e62cc346462587253a726db6b7/HdrHistogram-2.1.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.12.3/a017f8f606e5f433df4f8d5efc20ce39c2fe8330/scala-reflect-2.12.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.12.3/6e22c188d641f120fbf0e53a35b285d7e73873d/scala-reflect-2.12.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.3.1/2cf7a6cc79732e3bdf1647d7404279900ca63eb0/config-1.3.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.3.1/a27878630ff503b63ed25ff2a25fa8ef888740b3/config-1.3.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.dongxiguo/fastring_2.12/0.3.1/17f2d89723f1be0adec828aac747e4f4645499c7/fastring_2.12-0.3.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.dongxiguo/fastring_2.12/0.3.1/e18b0cb68316db1998a72c47d58a8d05a1869a1c/fastring_2.12-0.3.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.softwaremill.quicklens/quicklens_2.12/1.4.8/68e8e450ed5ba00f8997b70f63cb80c767747302/quicklens_2.12-1.4.8.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.softwaremill.quicklens/quicklens_2.12/1.4.8/de43618575a3c01203254c77e3f46f99dcef5542/quicklens_2.12-1.4.8-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client-netty-utils/2.0.35/5e508dbcd0d7cdc1ab37be965574522b55a26f3c/async-http-client-netty-utils-2.0.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client-netty-utils/2.0.35/4343e2a8da040e489e45f07f6fc905df46693ba6/async-http-client-netty-utils-2.0.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.scala-logging/scala-logging_2.12/3.7.2/a1dc97509765287faa4747f7cb411f0b85dc9a34/scala-logging_2.12-3.7.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.scala-logging/scala-logging_2.12/3.7.2/a5f760917b60283e37c84bf3db2aeaf976980ad3/scala-logging_2.12-3.7.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.3/7c4f3c474fb2c041d8028740440937705ebb473a/logback-classic-1.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.3/cfd5385e0c5ed1c8a5dce57d86e79cf357153a64/logback-classic-1.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/7c10d545325e3a6e72e06381afe469fd40eb701/jackson-annotations-2.9.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/a0ad4e203304ccab7e01266fa814115850edb8a9/jackson-annotations-2.9.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.0/88e7c6220be3b3497b3074d3fc7754213289b987/jackson-core-2.9.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.0/60c3905e59f09cace421e18ad865bf71d8a79c29/jackson-core-2.9.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-reflekt/0.6.6/2a1853eebbdae4ce74469254bb98f576636896d0/boon-reflekt-0.6.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-reflekt/0.6.6/c61679ab4bcea119456ba631ddab7557916b464a/boon-reflekt-0.6.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-core/3.8.6/b098f1eeb2bf7860c1d76e3c2b82c93c8b7c36ee/jodd-core-3.8.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-core/3.8.6/9629008169416bd9f2e162fc8f54be5ce090e13f/jodd-core-3.8.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-log/3.8.6/a0135c64288a08c0d8574fed396086485e0122cb/jodd-log-3.8.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-log/3.8.6/adccc5ad332ea50055e828bae4bc5db31c3761de/jodd-log-3.8.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.0.51.Final/1c8074c311dd2f1273c722477b232cdb74dcd844/netty-codec-http-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.0.51.Final/505f23238cfaee039dcbd45702b513bcb37b25f5/netty-codec-http-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.0.51.Final/d1bb19203fef0a78babdbd0eb511add11d806df8/netty-handler-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.0.51.Final/1d6065aa3f347a06ebb98b9e209a122a59405c4c/netty-handler-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver-dns/2.0.35/76bc0397d33b7f83b38ac206a3a3cbe2acfa06d4/netty-resolver-dns-2.0.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver-dns/2.0.35/19f95a511678ee4d66283e858c31a3eeb9ec1ca3/netty-resolver-dns-2.0.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/5be7bd3f38e43c8fc83699bbb5328c62adb95bbf/reactive-streams-1.0.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams/1.0.8/afe9907657050156b4b204abdcbb16d15c98ad41/netty-reactive-streams-1.0.8.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams/1.0.8/526f0714d9e50ee3115e8e43fddf3cb6dae11c10/netty-reactive-streams-1.0.8-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.0.51.Final/2497dfa8a979b922503cf2587a8368f73aa3b1cc/netty-common-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.0.51.Final/449e3ad0e8a507ea5106065d9c1e07f91d45eedf/netty-common-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.0.51.Final/902a6036401f3a659967097fcad6b267bd3163d2/netty-buffer-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.0.51.Final/3d67eabb33c16b7d96e6f06e35acbc33f07e499d/netty-buffer-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.0.51.Final/12d1c748d7751e2c8789f9fe424194e7de1aeb49/netty-transport-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.0.51.Final/246fed700ef2171275359cae206cc5ee9f48b424/netty-transport-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.2.3/864344400c3d4d92dfeb0a305dc87d953677c03c/logback-core-1.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.2.3/3ebabe69eba0196af9ad3a814f723fb720b9101e/logback-core-1.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.0.51.Final/d23fcf04e4e515df86801fb9cbc281c9b4810310/netty-codec-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.0.51.Final/9c2aa963438d700cdca62e8458d9945383637dd5/netty-codec-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver/2.0.35/a98648d3bcd8278e75fbba3bd7b319757a2f7570/netty-resolver-2.0.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver/2.0.35/5dd721ed836dd058ff984b36ccf78acac3aeac13/netty-resolver-2.0.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-codec-dns/2.0.35/f02494146cdc7a6f0924afd983fa7def602a82d4/netty-codec-dns-2.0.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-codec-dns/2.0.35/7305fb5341279812bf1fd91b24226fceee5bf026/netty-codec-dns-2.0.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/gatling-dse-stress-1.2.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.4/7663f74ef944453c86cc7e6597ed33e9281f6412/scala-library-2.12.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.4/cf0a248c2c35f44dd24a44f50056606450980f33/scala-library-2.12.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.mashape.unirest/unirest-java/1.4.9/778cffcba803dc7d43932266aef4c91f5b6b4dd0/unirest-java-1.4.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.mashape.unirest/unirest-java/1.4.9/fc3504b646ef187849da8caa2e4e9c1b962b5caf/unirest-java-1.4.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling.highcharts/gatling-charts-highcharts/2.3.0/5fa92e718c2473207aa93903df0b4a03ef7bf9c6/gatling-charts-highcharts-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling.highcharts/gatling-charts-highcharts/2.3.0/7d8a50d609a0f2b623ef0674d6e68323d7ddda3a/gatling-charts-highcharts-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scalatest/scalatest_2.12/3.0.1/3a9dcb5a4308c4fd0f7424b5676f6fbf21c85131/scalatest_2.12-3.0.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scalatest/scalatest_2.12/3.0.1/41a5c872d218fad0668166a0d7c223d6aa1caa51/scalatest_2.12-3.0.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/733db77aa8d9b2d68015189df76ab06304406e50/httpclient-4.5.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpasyncclient/4.1.1/dd624f5a0ff43eb5cdf828d9739d3177ee00a5a9/httpasyncclient-4.1.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpasyncclient/4.1.1/548f9cae59a0d01571ac39f714f19682cb68c481/httpasyncclient-4.1.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.2/22b4c53dd9b6761024258de8f9240c3dce6ea368/httpmime-4.5.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.2/ca23fd61a082eab682fc0ffd29e37d09eab07180/httpmime-4.5.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.json/json/20160212/a742e3f85161835b95877478c5dd5b405cefaab9/json-20160212.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.json/json/20160212/6b4ee9a02a4ed9eb92efe6104c424f70c822c8c8/json-20160212-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-charts/2.3.0/162f4696d1a57c9eeb466a867c72d19d873a693e/gatling-charts-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-charts/2.3.0/8aebbc210e8a8fb58d218781e2402af61493e1f0/gatling-charts-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-app/2.3.0/41e96ca0911d7272ffcceaad133cb1e2918683bc/gatling-app-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-app/2.3.0/4b6d289e12471ef16a52205b6b699fed6ddbbbee/gatling-app-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scalactic/scalactic_2.12/3.0.1/1d893666e3561505729e33a3ee124e22fbfed774/scalactic_2.12-3.0.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scalactic/scalactic_2.12/3.0.1/31de8db043c2bfd24160ee167995919cb4cb9526/scalactic_2.12-3.0.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.4/b31526a230871fbe285fbcbe2813f9c0839ae9b0/httpcore-4.4.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.4/c5c19e3e6af6b452def290cde12a3ee4c35c893c/httpcore-4.4.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.9/9ce04e34240f674bc72680f8b843b1457383161a/commons-codec-1.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.9/3f15fff45d57656685abfee9e8302bf14580044c/commons-codec-1.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore-nio/4.4.4/16badfc2d99db264c486ba8c57ae577301a58bd9/httpcore-nio-4.4.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore-nio/4.4.4/816d16779b3058b1454908757fbc9ec8d233d7ba/httpcore-nio-4.4.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-core/2.3.0/dd80c883fc7c4f4e6d961ac0eb3668ce045d06ef/gatling-core-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-core/2.3.0/649c2217f74e778e244ed9f2cfcca0a639efa248/gatling-core-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.tdunning/t-digest/3.1/451ed219688aed5821a789428fd5e10426d11312/t-digest-3.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.tdunning/t-digest/3.1/bd80162d96b5ee17fb2f88fab8ce496e1214b6d3/t-digest-3.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-http/2.3.0/8b7bd3cc1928b8076e65d077e24d634eebde2c75/gatling-http-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-http/2.3.0/8cb46ba9b43e8c89c00b26f293e65813de07277/gatling-http-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-metrics/2.3.0/54bd3e70e3d4316b76390ad73f8dc4e228894498/gatling-metrics-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-metrics/2.3.0/c548254f8a07916b9309dadd16124998dbe07b2d/gatling-metrics-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-commons/2.3.0/fc017fa7bba948954a25219cdd1262b166a6e921/gatling-commons-2.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-commons/2.3.0/3d13593363f2cee4cd27c6150dd3e9cb38a42c7c/gatling-commons-2.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.12/2.5.4/437cfe40519a36b8c4890cb6b2ef3800d0549812/akka-actor_2.12-2.5.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.12/2.5.4/ca5b1d1069f76b781443161db3f6a9fdcc56e8b6/akka-actor_2.12-2.5.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-slf4j_2.12/2.5.4/b5d88662d8e71aa0a8978c5f68533495c2c96296/akka-slf4j_2.12-2.5.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-slf4j_2.12/2.5.4/b9ed67813392cef65032e50e99ea6b708b577e6e/akka-slf4j_2.12-2.5.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-csv/2.9.0/1bed4e5c47bb6d2c8ccde5ccc146d55ff43bc3/jackson-dataformat-csv-2.9.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-csv/2.9.0/60aa92552a377acf6b8b12e561ca3a87d2764ef3/jackson-dataformat-csv-2.9.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.suzaku/boopickle_2.12/1.2.6/85281da7833655a0fb7c91274c7a97cbe61b990c/boopickle_2.12-1.2.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.suzaku/boopickle_2.12/1.2.6/17dbfb08b534f2126a0bdcf1ab7066c413e14043/boopickle_2.12-1.2.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-java8-compat_2.12/0.8.0/1e6f1e745bf6d3c34d1e2ab150653306069aaf34/scala-java8-compat_2.12-0.8.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-java8-compat_2.12/0.8.0/a33ce48278b9e3bbea8aed726e3c0abad3afadd/scala-java8-compat_2.12-0.8.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.github.ben-manes.caffeine/caffeine/2.5.5/3b7a61b4dd2a3b4e0aa5b500aaefaa5cd4beb76f/caffeine-2.5.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.github.ben-manes.caffeine/caffeine/2.5.5/20a43e057ee0de930f18cbd98250c680c132f8c4/caffeine-2.5.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.github.scopt/scopt_2.12/3.7.0/e078455e1a65597146f8608dab3247bf1eb92e6e/scopt_2.12-3.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.github.scopt/scopt_2.12/3.7.0/c560830a3061abd37463de2ac0560a4825ace566/scopt_2.12-3.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/b19b5927c2c25b6c70f093767041e641ae0b1b35/jsr305-3.0.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/jsonpath_2.12/0.6.9/a95b4587535e269fc5c95dea247c33e4c803d152/jsonpath_2.12-0.6.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.gatling/jsonpath_2.12/0.6.9/36eb0795239f3a63810c62a70ca5b68f2aa3b2c2/jsonpath_2.12-0.6.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.0/14fb5f088cc0b0dc90a73ba745bcade4961a3ee3/jackson-databind-2.9.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.0/dd1de78aa439a5bdee53236bf3012cf70f62234f/jackson-databind-2.9.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-json/0.6.6/d82b71ff8fa91831dbfdf46457c84fd139ec7777/boon-json-0.6.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-json/0.6.6/221b349dd309fc333bff656d9d744fe8524d3253/boon-json-0.6.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/net.sf.saxon/Saxon-HE/9.8.0-4/ffa5fd5228d56b6da4fb1a0cf943ec537d589379/Saxon-HE-9.8.0-4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/net.sf.saxon/Saxon-HE/9.8.0-4/8d13f1117abb38d1d8f2833b251384f61066f48b/Saxon-HE-9.8.0-4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-lagarto/3.8.6/997cd23a7c05cc9c9a55474ba45a0a8078a5d652/jodd-lagarto-3.8.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-lagarto/3.8.6/9247370b6383ac31b6a29be449455addf431cda0/jodd-lagarto-3.8.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.0.35/c3cc60e3c58259c7b2cde0d0f4df4d07473879dc/async-http-client-2.0.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.0.35/e4035ea7fcfe42bf79a829400584a416dc194ec8/async-http-client-2.0.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.0.51.Final/31e01b634255d265f0a9282bdc96dfd6d1f6b78f/netty-transport-native-epoll-4.0.51.Final-linux-x86_64.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.0.51.Final/f52f2da4c8ccb0a9fc2d953649bbac38cdf92c91/netty-transport-native-epoll-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.hdrhistogram/HdrHistogram/2.1.9/e4631ce165eb400edecfa32e03d3f1be53dee754/HdrHistogram-2.1.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.hdrhistogram/HdrHistogram/2.1.9/966a6429061192e62cc346462587253a726db6b7/HdrHistogram-2.1.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.3.1/2cf7a6cc79732e3bdf1647d7404279900ca63eb0/config-1.3.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.3.1/a27878630ff503b63ed25ff2a25fa8ef888740b3/config-1.3.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.dongxiguo/fastring_2.12/0.3.1/17f2d89723f1be0adec828aac747e4f4645499c7/fastring_2.12-0.3.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.dongxiguo/fastring_2.12/0.3.1/e18b0cb68316db1998a72c47d58a8d05a1869a1c/fastring_2.12-0.3.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.softwaremill.quicklens/quicklens_2.12/1.4.8/68e8e450ed5ba00f8997b70f63cb80c767747302/quicklens_2.12-1.4.8.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.softwaremill.quicklens/quicklens_2.12/1.4.8/de43618575a3c01203254c77e3f46f99dcef5542/quicklens_2.12-1.4.8-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client-netty-utils/2.0.35/5e508dbcd0d7cdc1ab37be965574522b55a26f3c/async-http-client-netty-utils-2.0.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client-netty-utils/2.0.35/4343e2a8da040e489e45f07f6fc905df46693ba6/async-http-client-netty-utils-2.0.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.scala-logging/scala-logging_2.12/3.7.2/a1dc97509765287faa4747f7cb411f0b85dc9a34/scala-logging_2.12-3.7.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.scala-logging/scala-logging_2.12/3.7.2/a5f760917b60283e37c84bf3db2aeaf976980ad3/scala-logging_2.12-3.7.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.3/7c4f3c474fb2c041d8028740440937705ebb473a/logback-classic-1.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.3/cfd5385e0c5ed1c8a5dce57d86e79cf357153a64/logback-classic-1.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/7c10d545325e3a6e72e06381afe469fd40eb701/jackson-annotations-2.9.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/a0ad4e203304ccab7e01266fa814115850edb8a9/jackson-annotations-2.9.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.0/88e7c6220be3b3497b3074d3fc7754213289b987/jackson-core-2.9.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.0/60c3905e59f09cace421e18ad865bf71d8a79c29/jackson-core-2.9.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-reflekt/0.6.6/2a1853eebbdae4ce74469254bb98f576636896d0/boon-reflekt-0.6.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-reflekt/0.6.6/c61679ab4bcea119456ba631ddab7557916b464a/boon-reflekt-0.6.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-core/3.8.6/b098f1eeb2bf7860c1d76e3c2b82c93c8b7c36ee/jodd-core-3.8.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-core/3.8.6/9629008169416bd9f2e162fc8f54be5ce090e13f/jodd-core-3.8.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-log/3.8.6/a0135c64288a08c0d8574fed396086485e0122cb/jodd-log-3.8.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-log/3.8.6/adccc5ad332ea50055e828bae4bc5db31c3761de/jodd-log-3.8.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.0.51.Final/1c8074c311dd2f1273c722477b232cdb74dcd844/netty-codec-http-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.0.51.Final/505f23238cfaee039dcbd45702b513bcb37b25f5/netty-codec-http-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.0.51.Final/d1bb19203fef0a78babdbd0eb511add11d806df8/netty-handler-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.0.51.Final/1d6065aa3f347a06ebb98b9e209a122a59405c4c/netty-handler-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver-dns/2.0.35/76bc0397d33b7f83b38ac206a3a3cbe2acfa06d4/netty-resolver-dns-2.0.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver-dns/2.0.35/19f95a511678ee4d66283e858c31a3eeb9ec1ca3/netty-resolver-dns-2.0.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/5be7bd3f38e43c8fc83699bbb5328c62adb95bbf/reactive-streams-1.0.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams/1.0.8/afe9907657050156b4b204abdcbb16d15c98ad41/netty-reactive-streams-1.0.8.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams/1.0.8/526f0714d9e50ee3115e8e43fddf3cb6dae11c10/netty-reactive-streams-1.0.8-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.0.51.Final/2497dfa8a979b922503cf2587a8368f73aa3b1cc/netty-common-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.0.51.Final/449e3ad0e8a507ea5106065d9c1e07f91d45eedf/netty-common-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.0.51.Final/902a6036401f3a659967097fcad6b267bd3163d2/netty-buffer-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.0.51.Final/3d67eabb33c16b7d96e6f06e35acbc33f07e499d/netty-buffer-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.0.51.Final/12d1c748d7751e2c8789f9fe424194e7de1aeb49/netty-transport-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.0.51.Final/246fed700ef2171275359cae206cc5ee9f48b424/netty-transport-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.2.3/864344400c3d4d92dfeb0a305dc87d953677c03c/logback-core-1.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.2.3/3ebabe69eba0196af9ad3a814f723fb720b9101e/logback-core-1.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.0.51.Final/d23fcf04e4e515df86801fb9cbc281c9b4810310/netty-codec-4.0.51.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.0.51.Final/9c2aa963438d700cdca62e8458d9945383637dd5/netty-codec-4.0.51.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver/2.0.35/a98648d3bcd8278e75fbba3bd7b319757a2f7570/netty-resolver-2.0.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver/2.0.35/5dd721ed836dd058ff984b36ccf78acac3aeac13/netty-resolver-2.0.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-codec-dns/2.0.35/f02494146cdc7a6f0924afd983fa7def602a82d4/netty-codec-dns-2.0.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-codec-dns/2.0.35/7305fb5341279812bf1fd91b24226fceee5bf026/netty-codec-dns-2.0.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.12/1.0.6/2785fb31169d9a89298eb05f748d90205bc2592e/scala-parser-combinators_2.12-1.0.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.12/1.0.6/b67822f6858f8cead9a87b43dead5c754bdc0167/scala-parser-combinators_2.12-1.0.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.12/1.0.6/e22de3366a698a9f744106fb6dda4335838cf6a7/scala-xml_2.12-1.0.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.12/1.0.6/429925530fb0f9a6fb26e5160532b7b3426557c0/scala-xml_2.12-1.0.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.12.3/a017f8f606e5f433df4f8d5efc20ce39c2fe8330/scala-reflect-2.12.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.12.3/6e22c188d641f120fbf0e53a35b285d7e73873d/scala-reflect-2.12.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.pegdown/pegdown/1.6.0/231ae49d913467deb2027d0b8a0b68b231deef4f/pegdown-1.6.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.pegdown/pegdown/1.6.0/ad0e92eb264e387339c329035462cbab9fe695c5/pegdown-1.6.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.parboiled/parboiled-java/1.1.7/2298c64ce8ee8e2fb37e97e16d7be52f0c7cf61f/parboiled-java-1.1.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.parboiled/parboiled-java/1.1.7/daf5d5a09ec77a59859032ca9bd871c0a2478ea4/parboiled-java-1.1.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.parboiled/parboiled-core/1.1.7/a60ff9a54cbeb30ec44c89e16ac4c35913cbad5a/parboiled-core-1.1.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.parboiled/parboiled-core/1.1.7/2d1b0475bd2da6c1dc1763eb820c9c193cd9f53e/parboiled-core-1.1.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/dcc2193db20e19e1feca8b1240dbbc4e190824fa/asm-5.0.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-5.0.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.0.3/287749b48ba7162fb67c93a026d690b29f410bed/asm-tree-5.0.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-tree-5.0.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.0.3/c7126aded0e8e13fed5f913559a0dd7b770a10f3/asm-analysis-5.0.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-analysis-5.0.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/5.0.3/1512e5571325854b05fb1efce1db75fcced54389/asm-util-5.0.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/markwolters/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-util-5.0.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/gatling-dse-stress-1.2.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry level="project" name="scala-sdk-2.12.4" type="library"/>
+  </component>
+  <component name="ModuleRootManager"/>
+</module>
