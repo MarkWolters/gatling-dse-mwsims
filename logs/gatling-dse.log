@@ -1,0 +1,5 @@
+18:52:07.786 [DEBUG] c.d.g.s.l.Cassandra - Username and password set in configs using to connect to nodes
+18:52:07.793 [DEBUG] c.d.g.s.l.Cassandra - Using LOCAL_QUORUM as default consistency
+18:52:07.794 [DEBUG] c.d.g.s.l.Cassandra - Using LOCAL_SERIAL as serial consistency
+18:52:07.812 [DEBUG] c.d.g.s.l.Cassandra - dcName found in configs, setting connection to TokenAware(DCAwareRR) w/ dc = Analytics
+18:52:08.146 [WARN ] c.d.d.c.NettyUtil - Found Netty's native epoll transport, but not running on linux-based operating system. Using NIO instead.
